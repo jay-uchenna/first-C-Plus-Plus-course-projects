@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  ClassTest
-//
-//  Created by Jedidiah Uchenna on 26.02.2021.
-//
-
 #include <iostream>
 #include "dosage_check.h" 
 

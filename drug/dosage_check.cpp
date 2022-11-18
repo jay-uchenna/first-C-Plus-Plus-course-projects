@@ -1,10 +1,3 @@
-//
-//  dosage_check.cpp
-//  ClassTest
-//
-//  Created by Jedidiah Uchenna on 27.02.2021.
-//
-
 #include "dosage_check.h"
 
 dosage_check::dosage_check(char d, int e, double f){
